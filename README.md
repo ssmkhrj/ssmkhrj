@@ -1,8 +1,8 @@
 ```js
 const name = "Som Shekhar Mukherjee"
-console.log(`Hey Everyone 👋! I am ${name}.`)
+console.log(`Hey Everyone 👋 I'm ${name}.`)
 ```
-> Hey Everyone 👋! I am Som Shekhar Mukherjee.
+> Hey Everyone 👋 I'm Som Shekhar Mukherjee.
 
 <!--
 **ssmkhrj/ssmkhrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
