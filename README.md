@@ -1,4 +1,4 @@
-```
+```js
 const name = "Som Shekhar Mukherjee"
 console.log(`Hey Everyone 👋! I am ${name}.`)
 ```
