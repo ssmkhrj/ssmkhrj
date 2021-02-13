@@ -51,7 +51,7 @@
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-<h2>Some Codepens 💜</h2>
+<h3>Some Codepens 💜</h3>
 <table>
   <tr>
     <td><strong>BUBBLE SORT VISUALIZER</strong></td>
