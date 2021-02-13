@@ -66,7 +66,7 @@
     <td><strong>MAZE VISUALIZER AND GAME</strong></td>
   </tr>
   <tr>
-  <td><a href="https://codepen.io/ssmkhrj/full/WNroXOo" target="_blank"><img src="https://media.giphy.com/media/y41NvOZMNpoNWqhjS0/giphy.gif" alt="Css Xmas Tree"/></a></td>
+  <td><a href="https://codepen.io/ssmkhrj/full/LYRLXam" target="_blank"><img src="https://media.giphy.com/media/y41NvOZMNpoNWqhjS0/giphy.gif" alt="Css Xmas Tree"/></a></td>
     <td><a href="https://codepen.io/ssmkhrj/full/bGEROmp" target="_blank"><img src="https://media.giphy.com/media/pcgBCsu1gyg3zKabXv/giphy.gif" alt="Maze Visualizer And Game"/></a></td>
   </tr>
   <tr>
