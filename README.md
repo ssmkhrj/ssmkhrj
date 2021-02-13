@@ -52,3 +52,11 @@
 </p>
 
 <h2>I ❤ Codepen</h2>
+<table>
+  <tr>
+    <td><strong>BUBBLE SORT VISUALIZER</strong></td>
+  </tr>
+  <tr>
+  <td><a href="https://codepen.io/ssmkhrj/full/WNroXOo" target="_blank"><img src="https://media.giphy.com/media/mpDUYJd6FWzQBls1FU/giphy.gif" alt="Bubble Sort Visualizer"/></a></td>
+  </tr>
+  </table>
