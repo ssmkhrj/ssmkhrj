@@ -1,4 +1,4 @@
-<h2><img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="120"/> I'm Som Shekhar Mukherjee<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="150"/></h2>
+<h1><img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="120"/> I'm Som Shekhar Mukherjee<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="150"/></h1>
 
 <h3 align="left">Social Presence</h3>
 <p align="left">
