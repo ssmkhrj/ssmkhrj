@@ -1,5 +1,6 @@
 <h1><img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="120"/> I'm Som Shekhar Mukherjee<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="150"/></h1>
 
+<br>
 <h3 align="left">Social Presence</h3>
 <p align="left">
 <!-- Codepen -->
@@ -12,6 +13,7 @@
 <a href="https://www.hackerrank.com/shekhar2som" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="shekhar2som" height="30" width="40" /></a>
 </p>
 
+<hr>
 <h3 align="left">Languages and Tools</h3>
 <!-- JavaScript -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -50,7 +52,7 @@
 <!-- Postman -->
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
-
+<hr>
 <h3>Some Codepens 💜</h3>
 <table>
   <tr>
