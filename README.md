@@ -51,12 +51,28 @@
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-<h2>I ❤ Codepen</h2>
+<h2>Some Codepens 💜</h2>
 <table>
   <tr>
     <td><strong>BUBBLE SORT VISUALIZER</strong></td>
+    <td><strong>SNAKE GAME</strong></td>
   </tr>
   <tr>
-  <td><a href="https://codepen.io/ssmkhrj/full/WNroXOo" target="_blank"><img src="https://media.giphy.com/media/mpDUYJd6FWzQBls1FU/giphy.gif" alt="Bubble Sort Visualizer"/></a></td>
+  <td><a href="https://codepen.io/ssmkhrj/full/WNroXOo" target="_blank"><img src="https://media.giphy.com/media/E99zaePGOHz6Yjhehb/giphy.gif" alt="Bubble Sort Visualizer"/></a></td>
+    <td><a href="https://codepen.io/ssmkhrj/full/Vwapvjw" target="_blank"><img src="https://media.giphy.com/media/q9y5EedB04nJpAgIjU/giphy.gif" alt="Snake Game"/></a></td>
+  </tr>
+  <tr>
+    <td><strong>CSS XMAS TREE</strong></td>
+    <td><strong>MAZE VISUALIZER AND GAME</strong></td>
+  </tr>
+  <tr>
+  <td><a href="https://codepen.io/ssmkhrj/full/WNroXOo" target="_blank"><img src="https://media.giphy.com/media/y41NvOZMNpoNWqhjS0/giphy.gif" alt="Css Xmas Tree"/></a></td>
+    <td><a href="https://codepen.io/ssmkhrj/full/bGEROmp" target="_blank"><img src="https://media.giphy.com/media/pcgBCsu1gyg3zKabXv/giphy.gif" alt="Maze Visualizer And Game"/></a></td>
+  </tr>
+  <tr>
+    <td><strong>FIREWORKS</strong></td>
+  </tr>
+  <tr>
+  <td><a href="https://codepen.io/ssmkhrj/full/gOPmBBz" target="_blank"><img src="https://media.giphy.com/media/FlaPvu9zEbkk6MHfQg/giphy.gif" alt="Fireworks"/></a></td>
   </tr>
   </table>
