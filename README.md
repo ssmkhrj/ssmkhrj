@@ -5,11 +5,11 @@
 <p align="left">
 <!-- Codepen -->
 <a href="https://codepen.io/ssmkhrj" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="ssmkhrj" height="30" width="40" /></a>
-<!-- Codepen -->
+<!-- Dev.to -->
 <a href="https://dev.to/ssmkhrj" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ssmkhrj" height="30" width="40" /></a>
-<!-- Codepen -->
-<a href="https://www.codechef.com/users/som_s_mukherjee" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="som.s.mukherjee" height="30" width="40" /></a>
-<!-- Codepen -->
+<!-- Codechef -->
+<a href="https://www.codechef.com/users/som_s_mukherji" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="som.s.mukherjee" height="30" width="40" /></a>
+<!-- HackerRank -->
 <a href="https://www.hackerrank.com/shekhar2som" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="shekhar2som" height="30" width="40" /></a>
 </p>
 
