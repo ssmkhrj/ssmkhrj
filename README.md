@@ -1,14 +1,18 @@
 <h2><img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="120"/> I'm Som Shekhar Mukherjee<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="150"/></h2>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social Presence</h3>
 <p align="left">
-<a href="https://codepen.io/ssmkhrj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="ssmkhrj" height="30" width="40" /></a>
-<a href="https://dev.to/ssmkhrj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ssmkhrj" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/som.s.mukherjee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="som.s.mukherjee" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shekhar2som" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="shekhar2som" height="30" width="40" /></a>
+<!-- Codepen -->
+<a href="https://codepen.io/ssmkhrj" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="ssmkhrj" height="30" width="40" /></a>
+<!-- Codepen -->
+<a href="https://dev.to/ssmkhrj" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ssmkhrj" height="30" width="40" /></a>
+<!-- Codepen -->
+<a href="https://www.codechef.com/users/som_s_mukherjee" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="som.s.mukherjee" height="30" width="40" /></a>
+<!-- Codepen -->
+<a href="https://www.hackerrank.com/shekhar2som" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="shekhar2som" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <!-- JavaScript -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <!-- Python -->
@@ -46,3 +50,5 @@
 <!-- Postman -->
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
+
+<h2>I ❤ Codepen</h2>
